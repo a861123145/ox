@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/david/wnc-git/harris/1732/android_jb/kernel/drivers/media/video/msm'
+let g:netrw_dirhist_2='/home/david/wnc-git/harris/harris-1049-HLOS/vendor/qcom/proprietary/mm-camera'
+let g:netrw_dirhist_3='/home/david/wnc-git/harris/2021/NON-HLOS/common'
+let g:netrw_dirhist_4='/home/david/wnc-git/harris/2021/HLOS/kernel/drivers/media/video/msm/sensors'
+let g:netrw_dirhist_5='/home/david/test/2031/.repo/projects'
+let g:netrw_dirhist_6='/home/david/wnc-git/harris/2305/HLOS/kernel/arch/arm/mach-msm'

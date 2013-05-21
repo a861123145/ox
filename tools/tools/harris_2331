@@ -1,0 +1,2 @@
+repo init -u git://njgit.wneweb.com.cn/harris_msm8960_jb_HLOS/platform/manifest.git -b harris_2331_HLOS -m harris_2331_HLOS.xml
+ repo init -u git://njgit.wneweb.com.cn/jb_2331_NON_HLOS/manifest.git -b harris_2331_NON_HLOS -m harris_2331_NON_HLOS.xml
